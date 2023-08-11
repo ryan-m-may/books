@@ -1,2 +1,2 @@
 # books
-Code I've written to practice what i'm learning from books, lectures, etc.
+Code I've written to practice what I'm learning from books, courses, lectures, etc.
